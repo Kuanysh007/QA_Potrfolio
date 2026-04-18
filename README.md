@@ -51,13 +51,16 @@ Web Testing: Провожу функциональные проверки инт
 ### 📂 Проект №1: Аудит платформы Demoblaze.com
 > Здесь я провел полный цикл тестирования от планирования до проверки базы данных.
 
-* [📝 **Тест-план**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034)
-* [📋 **Чек-листы**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916)
-* [🧪 **Тест-кейсы**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096)
-* [🗄 **SQL Queries**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380)
-* [🚀 **API Testing**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160)
-* [🐛 **Bug Reports**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677)
-* [🛠 **DevTools Audit**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844)
+#### **Проект №1: Комплексный аудит платформы Demoblaze.com**
+> Полный цикл тестирования: от планирования до верификации данных в базе данных.
+
+* [📝 **Тест-план**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034) — стратегия и риски.
+* [📋 **Чек-листы**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916) — общая и детальная проверка.
+* [🧪 **Тест-кейсы**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096) — пошаговые сценарии.
+* [🗄 **SQL Queries**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380) — запросы к БД.
+* [🚀 **API Testing**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160) — отчеты Postman.
+* [🐛 **Bug Reports**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677) — найденные дефекты.
+* [🛠 **DevTools Audit**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844) — технический аудит фронтенда.
 
 ---
 
