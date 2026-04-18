@@ -125,4 +125,53 @@
     </p>
   </details>
   
-  
+
+  <br>
+
+## 🚀 Портфолио проектов
+
+### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
+> **Статус:** Завершен (Full Cycle QA)
+
+<table border="0">
+  <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1NMageeMm3RffhYqb5jmZ0QeHY7e40qb1/edit?usp=share_link"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1rutwbbsXC4IE1rOlU-zuwAEb_8VeE6nC/edit?usp=share_link"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1wf_uwOdXIz7_rmqYj1K3nB0sG9IRKouH/edit?usp=share_link"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
+    </td>
+    <td>
+      <b>Тестовая документация:</b> Разработал стратегию тестирования, чек-листы и подробные тест-кейсы для критических путей пользователя.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
+    </td>
+    <td>
+      <b>Бэкенд и БД:</b> Проверил API эндпоинты через Postman и подтвердил корректность данных через SQL-запросы.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
+        <p align="center">
+          <img src="ССЫЛКА_НА_SQL_СКРИН_1" width="45%" alt="SQL Result"> 
+          <img src="ССЫЛКА_НА_POSTMAN_СКРИН" width="45%" alt="Postman Tests">
+          <br>
+          <i>Примеры выполнения запросов в pgAdmin и тестов в Postman</i>
+        </p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="350">
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
+    </td>
+    <td>
+      <b>Дефекты:</b> Зафиксировал найденные баги с логами из DevTools и четкими шагами воспроизведения для разработчиков.
+    </td>
+  </tr>
+</table>
