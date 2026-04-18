@@ -144,7 +144,7 @@
           <br>
           <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%" alt="SQL Proof">
           <br><br>
-          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_GIF_ИЛИ_ВИДЕО_POSTMAN" width="100%" alt="Postman Proof Video">
+          <img src="https://drive.google.com/file/d/1c1wg9cbU_3amm15mAGHIKloS5w9NFrao/view?usp=share_link" width="100%" alt="Postman Proof Video">
           <br>
           <i>Запуск коллекции тестов в Postman и верификация данных в DB</i>
         </p>
