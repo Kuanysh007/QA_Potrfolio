@@ -78,6 +78,24 @@
       <b>QA Automation (Basics):</b> Имею базовые навыки автоматизации тестирования на <b>Node.js</b> с использованием фреймворка <b>Playwright</b>. Умею писать простые автотесты (E2E), работать с локаторами и запускать тесты через терминал. 
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.charlesproxy.com/static/img/charles-logo.png" width="50" alt="Charles Proxy" />
+    </td>
+    <td>
+      <b>Proxy Debugging (Charles):</b> Использую <b>Charles Proxy</b> для перехвата и анализа HTTP/HTTPS трафика между мобильным устройством и сервером. Умею подменять ответы сервера (Rewrite/Map Local), проверять работу приложения при медленном интернете (Throttling) и находить ошибки в API запросах.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-128x128_2x.png" width="50" alt="TestFlight" />
+    </td>
+    <td>
+      <b>Mobile Testing (iOS):</b> Работаю с <b>TestFlight</b> для установки и тестирования бета-версий iOS-приложений. Понимаю цикл дистрибуции мобильного ПО, умею собирать логи с устройства и описывать специфические мобильные баги (прерывания, жесты, утечка батареи).
+    </td>
+  </tr>
   
   <tr>
     <td align="center" width="100">
