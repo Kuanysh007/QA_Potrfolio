@@ -61,6 +61,42 @@ Web Testing: Провожу функциональные проверки инт
   </tr>
 </table>
 
+### 🛠 Мой технический стек и опыт:
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" alt="Jira" /></td>
+    <td><b>Jira:</b> Управление жизненным циклом дефектов, ведение тасок и работа в Agile-команде.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" /></td>
+    <td><b>API Testing:</b> Тестирование бэкенда в Postman, проверка статус-кодов и структуры JSON/XML ответов.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" alt="DevTools" /></td>
+    <td><b>DevTools:</b> Анализ трафика в Network, работа с Console для поиска ошибок и инспекция элементов.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" /></td>
+    <td><b>Docker:</b> Развертывание тестовых окружений и работа с изолированными контейнерами.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" /></td>
+    <td><b>SQL:</b> Написание запросов (SELECT, JOIN) для проверки данных напрямую в базе.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" /></td>
+    <td><b>Git:</b> Контроль версий, работа с ветками и хранение документации в репозиториях.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JS" /></td>
+    <td><b>JavaScript:</b> Базовые скрипты для автоматизации и понимание логики веб-приложений.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Google Sheets" /></td>
+    <td><b>QA Documentation:</b> Создание тест-планов, подробных чек-листов и баг-репортов.</td>
+  </tr>
+</table>
 ---
 
 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
