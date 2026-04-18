@@ -216,45 +216,46 @@
   </tr>
 </table>
 
-### 📂 Проект №2: Тестирование Fullstack-приложения в Git + Docker (Backend & DB)
+### 📂 Проект №2: Тестирование Fullstack-приложения в Docker (Backend & DB)
 > **Статус:** В процессе (Infrastructure & API Testing)
 
 <table border="0">
   <tr>
     <td width="350" valign="top">
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-project">
-        <img src="https://img.shields.io/badge/Docker_Infrastructure-🐳-blue?style=for-the-badge">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-api-project">
+        <img src="https://img.shields.io/badge/Git_&_Docker-🛠-blue?style=for-the-badge">
       </a>
       <br><br>
-      <a href="ТВОЯ_ССЫЛКА_НА_ОТЧЕТ_ПО_ТЕСТ_ДИЗАЙНУ">
-        <img src="https://img.shields.io/badge/Test_Design-📝-orange?style=for-the-badge">
-      </a>
+      <a href="ССЫЛКА_НА_ТЕСТ_ПЛАН"><img src="https://img.shields.io/badge/Test_Plan-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="ССЫЛКА_НА_ЧЕК_ЛИСТЫ"><img src="https://img.shields.io/badge/Checklists-📋-white?style=for-the-badge&labelColor=4285F4"></a>
     </td>
     <td>
-      <b>Инфраструктура и Тест-дизайн:</b> Развернул среду тестирования через Docker Compose и применил техники тест-дизайна для API.
-      <br>• <b>Docker:</b> Поднял контейнеры App, PostgreSQL и Adminer (localhost:3000 / 8080).
-      <br>• <b>Техники:</b> Применил <b>Граничные значения</b> и <b>Эквивалентные классы</b> для валидации входных данных.
-      <br><br>
-      <details>
-        <summary>🖼 <b>Смотреть Swagger и Docker логи</b></summary>
-        <p align="center">
-          <br>
-          <img src="ССЫЛКА_НА_ТВОЙ_СКРИН_DOCKER_И_SWAGGER" width="100%">
-          <br>
-          <i>Интерфейс Swagger UI и статус запущенных контейнеров</i>
-        </p>
-      </details>
+      <b>Инфраструктура и Стратегия:</b> Организовал процесс тестирования с нуля для приложения, развернутого в Docker.
+      <br>• <b>Тест-план:</b> Описал стратегию, инструменты и критерии приемки проекта.
+      <br>• <b>DevTools:</b> Использовал вкладки <i>Network</i> для анализа API-запросов и <i>Console</i> для поиска ошибок фронтенда.
+      <br>• <b>Docker:</b> Оркестрация контейнеров (App, DB) через <code>docker-compose</code>.
     </td>
   </tr>
 
   <tr>
     <td width="350" valign="top">
-      <a href="ТВОЯ_ССЫЛКА_НА_SQL_ОТЧЕТ">
-        <img src="https://img.shields.io/badge/Database_Testing-🗄-white?style=for-the-badge&labelColor=336791">
-      </a>
+      <a href="ССЫЛКА_НА_ТЕСТ_КЕЙСЫ"><img src="https://img.shields.io/badge/Test_Cases-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
+      <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
-      <b>Тестирование БД:</b> Проверка целостности данных и корректности CRUD операций напрямую через SQL-запросы в Adminer.
+      <b>Тест-дизайн и Артефакты:</b>
+      <br>• Применил техники тест-дизайна для создания тест-кейсов на API и БД.
+      <br>• Задокументировал найденные дефекты с логами из <b>DevTools</b> и <b>Docker logs</b>.
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть артефакты (DevTools / Баг-репорты)</b></summary>
+        <p align="center">
+          <br>
+          <img src="ССЫЛКА_НА_СКРИН_DEVTOOLS_NETWORK" width="100%">
+          <br>
+          <i>Анализ сетевой активности (Network tab) в DevTools</i>
+        </p>
+      </details>
     </td>
   </tr>
 </table>
