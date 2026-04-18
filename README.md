@@ -82,14 +82,6 @@
 
 ---
 
-### 📫 Как со мной связаться:
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
-
-
-<br>
-
-<br>
-
 ## 🚀 Портфолио проектов
 
 ### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
@@ -132,3 +124,7 @@
 * **Анализ рисков:** Выделил критические модули (авторизация, корзина, оплата) для приоритетного тестирования.
 * **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
 * **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
+
+* ### 📫 Как со мной связаться:
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
+
