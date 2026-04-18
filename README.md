@@ -180,28 +180,11 @@
 
   <tr>
     <td width="350" valign="top">
-      <a href="https://docs.google.com/spreadsheets/d/1wJ56wOQT2YwWMi1O4YqbaW64BUkVnghm/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
-    </td>
-    <td>
-      <b>Chrome DevTools:</b> Использовал Network и Console для поиска ошибок.
-      <br><br>
-      <details>
-        <summary>🖼 <b>Смотреть логи DevTools</b></summary>
-        <p align="center">
-          <br>
-          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_DEVTOOLS" width="100%">
-        </p>
-      </details>
-    </td>
-  </tr>
-  
-<tr>
-    <td width="350" valign="top">
       <a href="https://github.com/Kuanysh007/QA_Portfolio">
         <img src="https://img.shields.io/badge/View_Project_Code-💻-blue?style=for-the-badge">
       </a>
       <br><br>
-      <a href="ТВОЯ_ССЫЛКА_НА_GOOGLE_SHEETS">
+      <a href="https://docs.google.com/spreadsheets/d/1wJ56wOQT2YwWMi1O4YqbaW64BUkVnghm/edit?usp=sharing">
         <img src="https://img.shields.io/badge/Test_Report-📊-green?style=for-the-badge">
       </a>
     </td>
@@ -215,21 +198,26 @@
         <summary>🖼 <b>Смотреть структуру и логи</b></summary>
         <p align="center">
           <br>
-          <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_ИЗ_GITHUB_ISSUES" width="1
-     </table>          
-       
+          <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_ИЗ_GITHUB_ISSUES" width="100%">
+          <br>
+          <i>Структура файлов проекта и логи выполнения</i>
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
+
 ---
-            
+
 ### 🎯 Ключевые достижения в проекте:
 * **Анализ рисков:** Выделил критические модули (авторизация, корзина, оплата) для приоритетного тестирования.
 * **Глубокая проверка:** Протестировал API-эндпоинты и подтвердил корректность записи заказов в БД через SQL.
 * **Качество отчетов:** Оформил баг-репорты с четкими шагами воспроизведения и прикрепленными логами из DevTools.
 
-* ### 📫 Как со мной связаться:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/твой_профиль) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
+### 📫 Как со мной связаться:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuanysh-oshakbayuly) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuanysh_Osh) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77073373756)
+       
 
-
-</table>   
 
