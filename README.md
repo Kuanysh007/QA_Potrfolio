@@ -91,6 +91,9 @@
         <p align="center">
           <br>
           <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
           <br>
           <i>Результат SQL-запроса в PostgreSQL</i>
         </p>
