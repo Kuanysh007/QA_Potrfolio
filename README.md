@@ -40,6 +40,15 @@
       <b>JavaScript:</b> Использую базовый синтаксис языка для автоматизации проверок. Пишу скрипты (Pre-request/Tests) в <b>Postman</b> для обработки переменных, парсинга JSON и автоматизации тестов. Понимаю логику работы JS-скриптов на фронтенде.
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/flavor/favicon-32x32.png" width="50" alt="Swagger" />
+    </td>
+    <td>
+      <b>API Documentation (Swagger/OpenAPI):</b> Работаю с интерактивной документацией для тестирования эндпоинтов. Умею анализировать структуру запросов (JSON), проверять статус-коды, параметры и схемы ответов без необходимости прямого обращения к коду бэкенда.
+    </td>
+  </tr>
   
   <tr>
     <td align="center" width="100">
