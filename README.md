@@ -60,7 +60,7 @@ Web Testing: Провожу функциональные проверки инт
 * [🗄 **SQL Queries**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380) — запросы к БД.
 * [🚀 **API Testing**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160#gid=1273909160) — отчеты Postman.
 * [🐛 **Bug Reports**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677) — найденные дефекты.
-* [🛠 **DevTools Audit**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844) — технический аудит фронтенда.
+* [🛠 **DevTools Audit**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844) — технический аудит фронтенда
 
 ---
 
