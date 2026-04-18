@@ -113,6 +113,8 @@
 
 <br>
 
+<br>
+
 ## 🚀 Портфолио проектов
 
 ### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
@@ -126,7 +128,7 @@
       <a href="https://docs.google.com/spreadsheets/d/1wf_uwOdXIz7_rmqYj1K3nB0sG9IRKouH/edit?usp=share_link"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
     </td>
     <td>
-      <b>Тестовая документация:</b> Разработал стратегию, чек-листы и подробные тест-кейсы для критических путей пользователя.
+      <b>Тестовая документация:</b> Разработал стратегию, чек-листы и подробные тест-кейсы для проекта.
     </td>
   </tr>
 
@@ -139,14 +141,12 @@
       <b>Бэкенд и БД:</b> Проверил API и подтвердил корректность данных через SQL.
       <br><br>
       <details>
-        <summary>🖼🎥 <b>Смотреть SQL (Фото) и Postman (Видео)</b></summary>
+        <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
         <p align="center">
           <br>
-          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%" alt="SQL Proof">
-          <br><br>
-          <img src="https://drive.google.com/file/d/1c1wg9cbU_3amm15mAGHIKloS5w9NFrao/view?usp=share_link" width="100%" alt="Postman Proof Video">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
           <br>
-          <i>Запуск коллекции тестов в Postman и верификация данных в DB</i>
+          <i>Результат SQL-запроса в PostgreSQL</i>
         </p>
       </details>
     </td>
@@ -157,13 +157,13 @@
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
-      <b>Баг-репорты:</b> Зафиксировал дефекты с четкими шагами воспроизведения и ожидаемым результатом.
+      <b>Баг-репорты:</b> Оформил дефекты с четкими шагами воспроизведения в Google Sheets.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть пример баг-репорта (Фото)</b></summary>
+        <summary>🖼 <b>Смотреть пример баг-репорта</b></summary>
         <p align="center">
           <br>
-          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%" alt="Bug Report Proof">
+          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
         </p>
       </details>
     </td>
@@ -174,13 +174,13 @@
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
     </td>
     <td>
-      <b>DevTools:</b> Использовал консоль и вкладку Network для захвата логов и анализа ошибок.
+      <b>Chrome DevTools:</b> Использовал Network и Console для поиска ошибок.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть консоль DevTools (Фото)</b></summary>
+        <summary>🖼 <b>Смотреть логи DevTools</b></summary>
         <p align="center">
           <br>
-          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_DEVTOOLS" width="100%" alt="DevTools Console Proof">
+          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_DEVTOOLS" width="100%">
         </p>
       </details>
     </td>
