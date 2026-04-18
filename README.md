@@ -197,21 +197,26 @@
   
 <tr>
     <td width="350" valign="top">
-      <a href="https://docs.google.com/spreadsheets/d/1AICPZLvTYG_RmVw24Cl1PFUT1Ca3ecUb/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true">
-        <img src="https://img.shields.io/badge/UI_Automation-🎭-white?style=for-the-badge&labelColor=2EAD33">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/blob/main/Demoblaze.spec.js">
+        <img src="https://img.shields.io/badge/View_Code-💻-blue?style=for-the-badge">
+      </a>
+      <br><br>
+      <a href="ВСТАВЬ_СЮДА_ТВОЮ_ССЫЛКУ_НА_GOOGLE_SHEETS">
+        <img src="https://img.shields.io/badge/Test_Report-📊-green?style=for-the-badge">
       </a>
     </td>
     <td>
-      <b>UI Автоматизация (Playwright):</b> Разработал базовые автотесты для проверки критического функционала UI. 
-      Использовал <b>Node.js</b> и <b>Playwright</b> для автоматизации позитивных сценариев, работы с селекторами и проверки корректности отображения элементов.
+      <b>UI Automation (Playwright):</b> Реализовал автоматизацию критического пути пользователя.
+      <br>• <b>GitHub:</b> Весь код автотестов с использованием Page Object Model.
+      <br>• <b>Google Sheets:</b> Подробный отчет о прохождении тестов и шаги.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть результат автотеста (Report)</b></summary>
+        <summary>🖼 <b>Смотреть результат выполнения</b></summary>
         <p align="center">
           <br>
-          <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_ОТЧЕТА_ИЛИ_ГИФ" width="100%">
+          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
           <br>
-          <i>Пример выполнения UI-теста и генерации HTML-отчета</i>
+          <i>Логи успешного запуска тестов</i>
         </p>
       </details>
     </td>
