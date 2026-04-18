@@ -180,7 +180,7 @@
 
   <tr>
     <td width="350" valign="top">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1wJ56wOQT2YwWMi1O4YqbaW64BUkVnghm/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
     </td>
     <td>
       <b>Chrome DevTools:</b> Использовал Network и Console для поиска ошибок.
