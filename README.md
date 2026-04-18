@@ -216,31 +216,48 @@
   </tr>
 </table>
 
-<tr>
+### 📂 Проект №2: Тестирование Fullstack-приложения в Git + Docker (Backend & DB)
+> **Статус:** В процессе (Infrastructure & API Testing)
+
+<table border="0">
+  <tr>
     <td width="350" valign="top">
-      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-api-project">
+      <a href="https://github.com/Kuanysh007/QA_Portfolio/tree/main/docker-project">
         <img src="https://img.shields.io/badge/Docker_Infrastructure-🐳-blue?style=for-the-badge">
       </a>
       <br><br>
-      <a href="ТВОЯ_ССЫЛКА_НА_ОТЧЕТ_ПО_ЭТОМУ_ПРОЕКТУ">
-        <img src="https://img.shields.io/badge/API_Test_Design-📝-orange?style=for-the-badge">
+      <a href="ТВОЯ_ССЫЛКА_НА_ОТЧЕТ_ПО_ТЕСТ_ДИЗАЙНУ">
+        <img src="https://img.shields.io/badge/Test_Design-📝-orange?style=for-the-badge">
       </a>
     </td>
     <td>
-      <b>Fullstack Testing (Docker + SQL + API):</b> Тестирование комплексного приложения, развернутого через Docker контейнеры.
-      <br>• <b>Инфраструктура:</b> Разворачивание среды (App, DB, Adminer) с помощью Docker Compose.
-      <br>• <b>API Testing:</b> Тестирование эндпоинтов через Swagger (OpenAPI) и Postman.
-      <br>• <b>Test Design:</b> Применение техник (граничные значения, эквивалентные классы) для валидации данных в БД.
+      <b>Инфраструктура и Тест-дизайн:</b> Развернул среду тестирования через Docker Compose и применил техники тест-дизайна для API.
+      <br>• <b>Docker:</b> Поднял контейнеры App, PostgreSQL и Adminer (localhost:3000 / 8080).
+      <br>• <b>Техники:</b> Применил <b>Граничные значения</b> и <b>Эквивалентные классы</b> для валидации входных данных.
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть артефакты (Docker & Swagger)</b></summary>
+        <summary>🖼 <b>Смотреть Swagger и Docker логи</b></summary>
         <p align="center">
           <br>
-          <img src="ССЫЛКА_НА_СКРИН_DOCKER_И_SWAGGER" width="100%">
+          <img src="ССЫЛКА_НА_ТВОЙ_СКРИН_DOCKER_И_SWAGGER" width="100%">
+          <br>
+          <i>Интерфейс Swagger UI и статус запущенных контейнеров</i>
         </p>
       </details>
     </td>
   </tr>
+
+  <tr>
+    <td width="350" valign="top">
+      <a href="ТВОЯ_ССЫЛКА_НА_SQL_ОТЧЕТ">
+        <img src="https://img.shields.io/badge/Database_Testing-🗄-white?style=for-the-badge&labelColor=336791">
+      </a>
+    </td>
+    <td>
+      <b>Тестирование БД:</b> Проверка целостности данных и корректности CRUD операций напрямую через SQL-запросы в Adminer.
+    </td>
+  </tr>
+</table>
   
 ---
 
