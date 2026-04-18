@@ -111,21 +111,49 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
 
-<tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+<br>
+
+## 🚀 Портфолио проектов
+
+### 📂 Проект №1: Комплексный аудит e-commerce платформы Demoblaze.com
+> **Статус:** Завершен (Full Cycle QA)
+
+<table border="0">
+  <tr>
+    <td width="350" valign="top">
+      <a href="ТВОЯ_ССЫЛКА_НА_ТЕСТ_ПЛАН"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="ТВОЯ_ССЫЛКА_НА_ЧЕК_ЛИСТЫ"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
+      <a href="ТВОЯ_ССЫЛКА_НА_КЕЙСЫ"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
     </td>
     <td>
-      <b>Работа с БД (SQL):</b> Проверяю корректность данных в базе. Полный список запросов доступен в отчете.
+      <b>Тестовая документация:</b> Разработал стратегию, чек-листы и подробные тест-кейсы для критических путей пользователя.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="350" valign="top">
+      <a href="ТВОЯ_ССЫЛКА_НА_SQL_ОТЧЕТ"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
+      <a href="ТВОЯ_ССЫЛКА_НА_API"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
+    </td>
+    <td>
+      <b>Бэкенд и БД:</b> Проверил API эндпоинты в Postman и подтвердил сохранение данных через SQL.
       <br><br>
-      <a href="ТВОЯ_ССЫЛКА_НА_SHEETS_С_SQL">
-        <img src="https://img.shields.io/badge/Открыть_SQL_отчет-📊-blue?style=flat-square" />
-      </a>
-      
       <details>
-        <summary>🔍 Посмотреть скриншот работы в pgAdmin</summary>
+        <summary>🔍 <b>Посмотреть скриншот работы в PostgreSQL (pgAdmin)</b></summary>
         <br>
-        <img src="ССЫЛКА_НА_ТВОЮ_ФОТОГРАФИЮ_В_GITHUB" width="600" alt="PostgreSQL Screenshot">
+        <img src="ССЫЛКА_НА_ТВОЕ_ФОТО_В_GITHUB" width="600" alt="PostgreSQL Proof">
+        <p><i>На скриншоте видно написанный мной запрос и результат верификации данных в таблице.</i></p>
       </details>
     </td>
   </tr>
+
+  <tr>
+    <td width="350" valign="top">
+      <a href="ТВОЯ_ССЫЛКА_НА_БАГИ"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
+      <a href="ТВОЯ_ССЫЛКА_НА_DEVTOOLS"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4D4D4D"></a>
+    </td>
+    <td>
+      <b>Дефекты:</b> Оформил баг-репорты с логами из DevTools и четкими шагами воспроизведения.
+    </td>
+  </tr>
+</table>
