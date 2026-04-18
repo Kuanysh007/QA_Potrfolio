@@ -5,45 +5,39 @@ Junior QA Engineer. Performed manual testing of web applications.
 
 ---
 
-## 🧰 Tools
-- Postman
-- Jira
-- Chrome DevTools
-- GitHub
+<p align="center">
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.chrome.com/docs/devtools/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="devtools" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
-## 🧪 Project 1: Demoblaze Testing
+### Обо мне кратко:
+Магистр технических наук. Перешел в QA, потому что люблю порядок в коде и логике. 
+Специализируюсь на глубоком тестировании Web (Frontend/Backend) и мобильных приложений на Android.
 
-### 📌 Description
-Tested an e-commerce website. Checked registration, login, cart, and order flow.
+</div>
 
-### 🔍 What I did:
-- Created checklist
-- Wrote test cases
-- Found bugs
-- Tested API via Postman
-- Used DevTools
-
-### 📄 Artifacts:
-- checklist.xlsx
-- testcases.xlsx
-- bugs.xlsx
-
----
-
-## 🧪 Project 2: Login Testing
-
-### 📌 Description
-Tested login and registration functionality.
-
-### 🔍 What I did:
-- Validation testing
-- Negative scenarios
-- Error handling
-
-### 📄 Artifacts:
-- checklist.xlsx
-- testcases.xlsx
-- bugs.xlsx
 
