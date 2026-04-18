@@ -197,7 +197,7 @@
   
 <tr>
     <td width="350" valign="top">
-      <a href="ВСТАВЬ_ССЫЛКУ_НА_РЕПОЗИТОРИЙ_С_КОДОМ">
+      <a href="https://docs.google.com/spreadsheets/d/1AICPZLvTYG_RmVw24Cl1PFUT1Ca3ecUb/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true">
         <img src="https://img.shields.io/badge/UI_Automation-🎭-white?style=for-the-badge&labelColor=2EAD33">
       </a>
     </td>
