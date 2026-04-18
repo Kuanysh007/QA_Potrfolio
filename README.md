@@ -158,7 +158,7 @@
       <details>
         <summary>🖼 <b>Смотреть скриншоты (SQL / Postman)</b></summary>
         <p align="center">
-          <img src="ССЫЛКА_НА_SQL_СКРИН_1" width="45%" alt="SQL Result"> 
+          <img src="<img width="537"height="430" alt="Image" src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" />" width="45%" alt="SQL Result"> 
           <img src="ССЫЛКА_НА_POSTMAN_СКРИН" width="45%" alt="Postman Tests">
           <br>
           <i>Примеры выполнения запросов в pgAdmin и тестов в Postman</i>
