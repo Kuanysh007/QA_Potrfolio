@@ -81,10 +81,10 @@
 
   <tr>
     <td align="center" width="100">
-      <img src="https://www.charlesproxy.com/static/img/charles-logo.png" width="50" alt="Charles Proxy" />
+      <img src="https://img.icons8.com/color/48/000000/top-hat.png" width="50" alt="Charles Proxy" />
     </td>
     <td>
-      <b>Proxy Debugging (Charles):</b> Использую <b>Charles Proxy</b> для перехвата и анализа HTTP/HTTPS трафика между мобильным устройством и сервером. Умею подменять ответы сервера (Rewrite/Map Local), проверять работу приложения при медленном интернете (Throttling) и находить ошибки в API запросах.
+      <b>Proxy Debugging (Charles):</b> Использую <b>Charles Proxy</b> для перехвата и анализа HTTP/HTTPS трафика. Умею подменять ответы сервера (Rewrite/Map Local), проверять работу приложения при медленном интернете (Throttling) и находить ошибки в API запросах.
     </td>
   </tr>
 
