@@ -17,51 +17,7 @@ Web Testing: Провожу функциональные проверки инт
 
 ---
 
-### 🛠 Мой технический стек:
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* **API Testing:** Тестирую бэкенд (GET, POST, PUT, DELETE), проверяю статус-коды и структуру JSON. Нашел баг с опечаткой "exist" в ответах сервера.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* **Automation:** Использую JS для написания скриптов автоматизации в Postman и разработки автотестов.
-
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-* **Web Testing:** Провожу функциональные проверки. Использую Network для анализа трафика, Console для поиска ошибок и Application для работы с Cookies.
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-* **Database:** Пишу запросы (от выборок до `INNER JOIN`), чтобы проверять корректность сохранения данных в базе.
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-* **Infrastructure:** Работаю с контейнерами для развертывания тестовых окружений.
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* **Version Control:** Уверенно работаю с ветками, делаю коммиты и оформляю Pull Request-ы.
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-* **Documentation:** Составляю чек-листы, тест-кейсы и баг-репорты, которые экономят время разработчикам.
-
 * ### 🛠 Мой технический стек и опыт:
-
-<table>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" /></td>
-    <td><b>API Testing:</b> Провожу функциональное тестирование бэкенда в Postman. Умею проверять статус-коды, структуру ответов сервера (JSON/XML) и искать несоответствия в бизнес-логике.</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" /></td>
-    <td><b>Работа с данными:</b> Пишу SQL-запросы (от простых выборок до сложных `JOIN`), чтобы убедиться, что данные в базе данных сохраняются и отображаются корректно.</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /></td>
-    <td><b>Автоматизация:</b> Использую основы JavaScript для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Google Sheets" /></td>
-    <td><b>Документация:</b> Составляю тест-планы, чек-листы и тест-кейсы для структурированной проверки. Оформляю баг-репорты так, чтобы разработчик мог максимально быстро воспроизвести ошибку.</td>
-  </tr>
-</table>
-
-### 🛠 Мой технический стек и опыт:
 
 <table>
   <tr>
