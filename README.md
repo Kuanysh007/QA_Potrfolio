@@ -21,7 +21,6 @@ Web Testing: Провожу функциональные проверки инт
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 * **API Testing:** Тестирую бэкенд (GET, POST, PUT, DELETE), проверяю статус-коды и структуру JSON. Нашел баг с опечаткой "exist" в ответах сервера.
-[![My Skills](https://skillicons.dev/icons?i=postman,js,html,css,postgres,docker,git,linux)](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * **Automation:** Использую JS для написания скриптов автоматизации в Postman и разработки автотестов.
@@ -40,6 +39,27 @@ Web Testing: Провожу функциональные проверки инт
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 * **Documentation:** Составляю чек-листы, тест-кейсы и баг-репорты, которые экономят время разработчикам.
+
+* ### 🛠 Мой технический стек и опыт:
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" /></td>
+    <td><b>API Testing:</b> Провожу функциональное тестирование бэкенда в Postman. Умею проверять статус-коды, структуру ответов сервера (JSON/XML) и искать несоответствия в бизнес-логике.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" /></td>
+    <td><b>Работа с данными:</b> Пишу SQL-запросы (от простых выборок до сложных `JOIN`), чтобы убедиться, что данные в базе данных сохраняются и отображаются корректно.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /></td>
+    <td><b>Автоматизация:</b> Использую основы JavaScript для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Google Sheets" /></td>
+    <td><b>Документация:</b> Составляю тест-планы, чек-листы и тест-кейсы для структурированной проверки. Оформляю баг-репорты так, чтобы разработчик мог максимально быстро воспроизвести ошибку.</td>
+  </tr>
+</table>
 
 ---
 
@@ -64,6 +84,28 @@ Web Testing: Провожу функциональные проверки инт
 * [🛠 **DevTools Audit**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1423420844#gid=1423420844) — технический аудит фронтенда
 
 ---
+
+
+### 🛠 Мой технический стек и опыт:
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" /></td>
+    <td><b>API Testing:</b> Провожу функциональное тестирование бэкенда в Postman. Умею проверять статус-коды, структуру ответов сервера (JSON/XML) и искать несоответствия в бизнес-логике.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" /></td>
+    <td><b>Работа с данными:</b> Пишу SQL-запросы (от простых выборок до сложных `JOIN`), чтобы убедиться, что данные в базе данных сохраняются и отображаются корректно.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /></td>
+    <td><b>Автоматизация:</b> Использую основы JavaScript для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Google Sheets" /></td>
+    <td><b>Документация:</b> Составляю тест-планы, чек-листы и тест-кейсы для структурированной проверки. Оформляю баг-репорты так, чтобы разработчик мог максимально быстро воспроизвести ошибку.</td>
+  </tr>
+</table>
 
 ### 📫 Как со мной связаться:
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
