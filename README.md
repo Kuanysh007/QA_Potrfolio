@@ -84,7 +84,7 @@
 
   <tr>
     <td width="350" valign="top">
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1v9S2v2mmeVQmNRyky95wPKgm2GkKjkj9/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/SQL_Queries-🗄-white?style=for-the-badge&labelColor=336791"></a>
       <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1273909160"><img src="https://img.shields.io/badge/API_Testing-🚀-white?style=for-the-badge&labelColor=FF6C37"></a>
     </td>
     <td>
