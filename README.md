@@ -70,7 +70,7 @@
     <td width="350">
       <a href="https://docs.google.com/spreadsheets/d/1NMageeMm3RffhYqb5jmZ0QeHY7e40qb1/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Тест--план-📝-white?style=for-the-badge&labelColor=34A853"></a>
       <a href="https://docs.google.com/spreadsheets/d/1rutwbbsXC4IE1rOlU-zuwAEb_8VeE6nC/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Чек--листы-📋-white?style=for-the-badge&labelColor=4285F4"></a>
-      <a href="https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1wf_uwOdXIz7_rmqYj1K3nB0sG9IRKouH/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Тест--кейсы-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
     </td>
     <td>
       <b>Тестовая документация:</b> Разработал стратегию тестирования, чек-листы для быстрой проверки и подробные тест-кейсы для критических путей пользователя.
