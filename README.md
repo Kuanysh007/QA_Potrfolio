@@ -206,21 +206,16 @@
       </a>
     </td>
     <td>
-      <b>UI Automation Project (Playwright):</b> Реализовал полноценный проект автоматизации с использованием <b>Page Object Model (POM)</b>.
-      <br>• <b>Structure:</b> Код разбит на логические слои (тесты и описание страниц) для удобной поддержки.
-      <br>• <b>Tools:</b> Playwright, Node.js, JavaScript.
+      <b>UI Automation Project (Playwright):</b> Автоматизация сценариев Регистрации и Логина на платформе Demoblaze.
+      <br>• <b>Архитектура:</b> Использован паттерн <b>Page Object Model (POM)</b> для разделения логики тестов и элементов страницы.
+      <br>• <b>Стек:</b> Playwright, Node.js, JavaScript.
+      <br>• <b>Файлы:</b> Тесты (spec.js), описание страниц (LoginPage.js) и конфигурация (playwright.config.js).
       <br><br>
       <details>
-        <summary>🖼 <b>Смотреть структуру проекта</b></summary>
+        <summary>🖼 <b>Смотреть структуру и логи</b></summary>
         <p align="center">
           <br>
-          <img src="https://github.com/user-attachments/assets/7d054293-94ba-47f3-84b8-adf62fec4f42" width="100%">
-          <br>
-          <i>Пример того, как организованы файлы в моем проекте</i>
-        </p>
-      </details>
-    </td>
-  </tr>
+          <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_ИЗ_GITHUB_ISSUES" width="1
   </table>
   
 ---
