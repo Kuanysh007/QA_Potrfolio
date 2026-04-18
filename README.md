@@ -47,7 +47,7 @@
       <b>Автоматизация и Окружение:</b> Использую основы <b>JavaScript</b> для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" alt="Jira" />
