@@ -48,15 +48,14 @@ Web Testing: Провожу функциональные проверки инт
 
 Что было сделано:
 
-Планирование: Составил [📝 **Тест-план**]([https://docs.google.com/spreadsheets/d/твой_код_из_экселя_для_тестплана](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=0#gid=0)) — стратегия и анализ рисков. определив объемы тестирования, риски и критерии приемки.
+### 📂 Главный кейс: Аудит платформы Demoblaze.com
+> Здесь я провел полный цикл тестирования от планирования до проверки базы данных.
 
-Документация: Разработал детальные 📋 Чек-листы и Тест-кейсы, покрывающие как позитивные, так и негативные сценарии (регистрация, корзина, оформление заказа).
-
-API Testing: Через 🚀 Postman проверил бизнес-логику сервера. Нашел баг с опечаткой в ответе API (exist вместо exists).
-
-Database Testing: Подготовил набор 🗄 SQL-запросов (JOIN, агрегаты) для проверки корректности записи данных о пользователях и заказах.
-
-Дефектология: Зафиксировал и оформил 🐛 Баг-репорты по найденным критическим ошибкам верстки и логики пагинации.
+* [📝 **Тест-план**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1903080034#gid=1903080034) — стратегия и риски.
+* [📋 **Чек-листы и Кейсы**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1569426916#gid=1569426916) — функциональные и негативные сценарии.
+* [🚀 **Postman API**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1422030096#gid=1422030096) — проверка эндпоинтов.
+* [🗄 **SQL Queries**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1934963380#gid=1934963380) — примеры запросов к БД.
+* [🐛 **Bug Reports**](https://docs.google.com/spreadsheets/d/1PF9YwIODq3CDg576g9Q4Ontw0x8xykoHtW70vhwDX-s/edit?gid=1114532677#gid=1114532677) — детально описанные дефекты.
 
 ---
 
