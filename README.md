@@ -60,7 +60,16 @@
       <b>Автоматизация и Окружение:</b> Использую основы <b>JavaScript</b> для создания скриптов и автотестов. Понимаю принципы контейнеризации через <b>Docker</b> и уверенно работаю с <b>Git</b> для контроля версий.
     </td>
   </tr>
-
+  
+<tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50" alt="Playwright" />
+    </td>
+    <td>
+      <b>QA Automation (Basics):</b> Имею базовые навыки автоматизации тестирования на <b>Node.js</b> с использованием фреймворка <b>Playwright</b>. Умею писать простые автотесты (E2E), работать с локаторами и запускать тесты через терминал. 
+    </td>
+  </tr>
+  
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" alt="Jira" />
