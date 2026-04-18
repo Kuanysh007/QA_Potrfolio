@@ -111,3 +111,21 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77071234567)
 
+<tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+    </td>
+    <td>
+      <b>Работа с БД (SQL):</b> Проверяю корректность данных в базе. Полный список запросов доступен в отчете.
+      <br><br>
+      <a href="ТВОЯ_ССЫЛКА_НА_SHEETS_С_SQL">
+        <img src="https://img.shields.io/badge/Открыть_SQL_отчет-📊-blue?style=flat-square" />
+      </a>
+      
+      <details>
+        <summary>🔍 Посмотреть скриншот работы в pgAdmin</summary>
+        <br>
+        <img src="ССЫЛКА_НА_ТВОЮ_ФОТОГРАФИЮ_В_GITHUB" width="600" alt="PostgreSQL Screenshot">
+      </details>
+    </td>
+  </tr>
