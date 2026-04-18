@@ -43,7 +43,7 @@
 
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/flavor/favicon-32x32.png" width="50" alt="Swagger" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" alt="Swagger" />
     </td>
     <td>
       <b>API Documentation (Swagger/OpenAPI):</b> Работаю с интерактивной документацией для тестирования эндпоинтов. Умею анализировать структуру запросов (JSON), проверять статус-коды, параметры и схемы ответов без необходимости прямого обращения к коду бэкенда.
