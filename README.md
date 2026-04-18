@@ -1,34 +1,57 @@
-# QA Engineer | Portfolio — Kuanysh
+# Привет! Я Куаныш 👋
+### QA Engineer | Магистр технических наук
 
-## 📌 About Me
-Junior QA Engineer. Performed manual testing of web applications.
+Я начинающий QA-инженер, который любит разбираться в том, как устроены программы «под капотом». Мой интерес к качеству IT-продуктов вырос из фундаментального технического образования (Магистр технических наук) и желания делать цифровые сервисы удобнее и надежнее.
+Я верю, что хороший тестировщик — это исследователь, который не просто нажимает на кнопки, а понимает архитектуру приложения. В работе я ценю логичный подход, порядок в документации и глубокое погружение в техническую часть.
+
+Что я практикую в своих проектах:
+
+1. Web Testing: Провожу функциональные проверки интерфейса. Свободно использую Chrome DevTools (анализирую Network для проверки трафика, Console для поиска ошибок фронтенда и Application для работы с Cookies/Storage).
+
+2. Тестирование API: Работаю в Postman с основными методами (GET, POST, PUT, DELETE). Умею проверять статус-коды, структуру ответов сервера и искать несоответствия в бизнес-логике.
+
+3. Работа с данными: Пишу SQL-запросы (от простых выборок до сложных JOIN), чтобы убедиться, что данные в базе данных сохраняются и отображаются корректно.
+
+4. Автоматизация и Окружение: Использую основы JavaScript для создания скриптов и автотестов. Понимаю принципы контейнеризации через Docker и базово работаю с Git для контроля версий.
+
+5. Документация: Составляю тест-планы, чек-листы и тест-кейсы для структурированной проверки. Оформляю баг-репорты так, чтобы разработчик мог максимально быстро воспроизвести и исправить ошибку.
+
+
+### 🛠 Мой технический стек:
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* **API Testing:** Тестирую бэкенд (GET, POST, PUT, DELETE), проверяю статус-коды и структуру JSON. Нашел баг с опечаткой "exist" в ответах сервера.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* **Automation:** Использую JS для написания скриптов автоматизации в Postman и разработки автотестов.
+
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+* **Web Testing:** Провожу функциональные проверки. Использую Network для анализа трафика, Console для поиска ошибок и Application для работы с Cookies.
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+* **Database:** Пишу запросы (от выборок до `INNER JOIN`), чтобы проверять корректность сохранения данных в базе.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* **Infrastructure:** Работаю с контейнерами для развертывания тестовых окружений.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* **Version Control:** Уверенно работаю с ветками, делаю коммиты и оформляю Pull Request-ы.
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+* **Documentation:** Составляю чек-листы, тест-кейсы и баг-репорты, которые экономят время разработчикам.
 
 ---
 
-### 🛠 Технический стек и опыт:
+### 📂 Главный кейс: Аудит платформы Demoblaze.com
+Я провел комплексный аудит сайта: от планирования до проверки БД. Все артефакты доступны по ссылкам ниже:
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* **API Testing:** Провожу исследовательское тестирование бэкенда. В проекте Demoblaze нашел баг в тексте ошибки (опечатка "exist") и проверил статус-коды (200 OK).
+* [📝 **Тест-план:**](ссылка_на_файл) Стратегия и инструменты тестирования.
+* [📋 **Чек-листы и Тест-кейсы:**](ссылка_на_файл) Структурированные проверки функционала и негативные сценарии.
+* [🚀 **API Testing (Postman):**](ссылка_на_файл) Проверка эндпоинтов и логики сервера.
+* [🗄 **SQL Queries:**](ссылка_на_файл) Примеры запросов для проверки регистрации и корзины.
+* [🐛 **Баг-репорты:**](ссылка_на_файл) Подробное описание найденных дефектов верстки и логики.
 
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-* **Web Audit:** Анализирую вкладку Network для проверки JSON-ответов и Console для поиска скрытых ошибок фронтенда.
+---
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-* **Database:** Написываю SQL-запросы (INNER JOIN, DELETE, GROUP BY) для проверки целостности данных и уникальности имен пользователей.
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-* **Bug Reporting:** Оформляю детальные баг-репорты (ID, Summary, Steps, Severity). Например, зафиксировал баг с пагинацией мониторов на Demoblaze.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* **Automation:** Изучаю написание автотестов на Pytest и Selenium для автоматизации регрессионного тестирования.
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* **Version Control:** Работаю с репозиториями, делаю коммиты и управляю версиями своих тестовых артефактов.
-
-### Обо мне кратко:
-Магистр технических наук. Перешел в QA, потому что люблю порядок в коде и логике. 
-Специализируюсь на глубоком тестировании Web (Frontend/Backend) и мобильных приложений на Android.
-
-</div>
-
-
+### 📫 Как со мной связаться:
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](твой_linkedin) [ ![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white) ](твой_телеграм)
