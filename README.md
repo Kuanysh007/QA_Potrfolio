@@ -99,24 +99,6 @@
 
   <tr>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/-Charles_Proxy-444444?style=flat&logo=charlesproxy&logoColor=white" width="80" alt="Charles Proxy" />
-    </td>
-    <td>
-      <b>Proxy Debugging (Charles):</b> Перехват и анализ HTTP/HTTPS трафика. Использую Rewrite, Map Local и Throttling для проверки работы API и стабильности мобильных приложений.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-128x128_2x.png" width="50" alt="TestFlight" />
-    </td>
-    <td>
-      <b>Mobile Testing (iOS):</b> Работаю с <b>TestFlight</b> для установки и тестирования бета-версий iOS-приложений. Понимаю цикл дистрибуции мобильного ПО, умею собирать логи с устройства и описывать специфические мобильные баги (прерывания, жесты, утечка батареи).
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
       <img src="https://img.shields.io/badge/-iOS_Testing-000000?style=flat&logo=apple&logoColor=white" width="80" alt="iOS Testing" />
     </td>
     <td>
