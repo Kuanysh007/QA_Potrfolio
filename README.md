@@ -192,7 +192,7 @@
 
 <tr>
     <td width="350" valign="top">
-      <img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4285F4">
+       <a href="https://docs.google.com/spreadsheets/d/1wJ56wOQT2YwWMi1O4YqbaW64BUkVnghm/edit?usp=share_link&ouid=117945946105893616242&rtpof=true&sd=true"><img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4285F4">
     </td>
     <td>
       <b>Chrome DevTools:</b> Использовал для анализа сетевых запросов (Network), проверки консоли на ошибки и инспектирования элементов (DOM). 
