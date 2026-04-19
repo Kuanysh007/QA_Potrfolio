@@ -177,8 +177,12 @@
         <p align="center">
           <br>
            "<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/50793a33-f35c-49d0-b519-fc07fb60274a" width="100%">
-            <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
-            <img src="ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ФОТО_БАГ_РЕПОРТА" width="100%">
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/944d699f-7f75-4e41-bde3-b35a9b2cc7d3" /> 
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/8f3abc19-46da-4936-b488-6157d96b6427" />
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/2bcff624-77be-48a6-8d49-b8834f0d7eda" />
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/ad3024a3-d1ed-4c9b-957b-d75e9e02a04e" />
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/fc5a371f-52ef-447a-9263-be38c02dfefb" />
+            <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/a5ca4df8-65cf-4e01-b184-206a20d25d9d" />
         </p>
       </details>
     </td>
