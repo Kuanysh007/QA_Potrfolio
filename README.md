@@ -190,6 +190,23 @@
     </td>
   </tr>
 
+<tr>
+    <td width="350" valign="top">
+      <img src="https://img.shields.io/badge/DevTools-🛠-white?style=for-the-badge&labelColor=4285F4">
+    </td>
+    <td>
+      <b>Chrome DevTools:</b> Использовал для анализа сетевых запросов (Network), проверки консоли на ошибки и инспектирования элементов (DOM). 
+      <br><br>
+      <details>
+        <summary>🖼 <b>Смотреть работу с DevTools (скриншоты)</b></summary>
+        <p align="center">
+          <br>
+          <img src="ССЫЛКА_НА_ТВОЕ_ФОТО_DEVTOOLS" width="100%">
+        </p>
+      </details>
+    </td>
+  </tr>
+
   <tr>
     <td width="350" valign="top">
       <a href="https://github.com/Kuanysh007/QA_Portfolio">
@@ -230,6 +247,7 @@
       </a>
       <br><br>
       <a href="ССЫЛКА_НА_ТЕСТ_ПЛАН"><img src="https://img.shields.io/badge/Test_Plan-📝-white?style=for-the-badge&labelColor=34A853"></a>
+      <a href="ССЫЛКА_НА_ТЕСТ_КЕЙСЫ"><img src="https://img.shields.io/badge/Test_Cases-🧪-white?style=for-the-badge&labelColor=FBBC05"> </a>
       <a href="ССЫЛКА_НА_ЧЕК_ЛИСТЫ"><img src="https://img.shields.io/badge/Checklists-📋-white?style=for-the-badge&labelColor=4285F4"></a>
     </td>
     <td>
@@ -242,9 +260,7 @@
 
   <tr>
     <td width="350" valign="top">
-      <a href="ССЫЛКА_НА_ТЕСТ_КЕЙСЫ"><img src="https://img.shields.io/badge/Test_Cases-🧪-white?style=for-the-badge&labelColor=FBBC05"></a>
       <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
-      <a href="ССЫЛКА_НА_БАГ_РЕПОРТЫ"><img src="https://img.shields.io/badge/Bug_Reports_Link_Jira-🐛-white?style=for-the-badge&labelColor=EA4335"></a>
     </td>
     <td>
       <b>Тест-дизайн и Артефакты:</b>
