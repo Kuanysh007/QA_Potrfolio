@@ -159,7 +159,7 @@
           <br>
           <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba2067e9-7482-4bac-997d-f436423193b1" />
           <br>
-          <i>Результат SQL-запроса в PostgreSQL</i>
+          <i>Результаты запроса в Postman</i>
         </p>
       </details>
     </td>
