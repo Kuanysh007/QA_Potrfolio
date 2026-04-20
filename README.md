@@ -294,18 +294,12 @@
 ### 🎯 Ключевые достижения в проекте:
 
 ---
-
-### 📫 Как со мной связаться:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuanysh-oshakbayuly) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)]
-(https://t.me/Kuanysh_Osh) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77073373756)
-       
+     
 ## 📫 Contact Me / Связь со мной
 
 <p align="left">
   <a href="ТВОЯ_ССЫЛКА_НА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-  <a href="ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/></a>
-  <a href="mailto:ТВОЯ_ПОЧТА"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
+  <a href="t.me/Kuanysh_Kami"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/></a>
+  <a href="mailto:kuka5kami@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
 </p>
 
