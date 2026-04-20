@@ -294,7 +294,31 @@
 ### 🎯 Ключевые достижения в проекте:
 
 ---
-     
+
+## 🎓 Сертификаты и обучение
+
+<details>
+  <summary>Нажми, чтобы посмотреть мои сертификаты</summary>
+  
+  ### 📝 SQL Certification
+  ![SQL Certificate](./certificates/SQL_Certificate.jpg)
+  
+  ### 🌍 English B1 (Intermediate)
+  ![English Certificate](./certificates/English_B1.jpg)
+  
+</details>
+
+---
+
+## 🎓 Сертификаты / Certifications
+
+### 🚀 [Тестирование API в Postman - Stepik (Verify)](https://stepik.org/cert/3145621)
+> Сертификат подтверждает навыки работы с REST API: создание коллекций запросов (GET, POST, PUT, DELETE), написание автоматических тестов на JavaScript внутри Postman и работа с переменными окружения.
+
+<img src="https://stepik.org/cert/3145621.png?id=3145621" width="600" alt="Postman API Testing Certificate"/>
+
+---
+
 ## 📫 Contact Me / Связь со мной
 
 <p align="left">
