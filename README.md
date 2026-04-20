@@ -140,6 +140,10 @@
         <p align="center">
           <br>
           <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba2067e9-7482-4bac-997d-f436423193b1" />
+          <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/0a8616bf-ef4e-468f-9594-dcf0a11b8bc0" />
+          <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/a6104f74-d75b-44c4-96f6-e2f7aa82dc1f" />
+          <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/90bc3486-1039-49fa-9fe8-87d83f203d4b" />
+          <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/6d000da5-64c3-45f7-bf03-4cc7312883be" />
           <br>
           <i>Результаты запроса в Postman</i>
         </p>
