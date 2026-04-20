@@ -295,16 +295,16 @@
 
 ---
 
-## 🎓 Сертификаты и обучение
+## 🎓 Сертификаты / Certifications
 
 <details>
   <summary><b>Нажми, чтобы посмотреть сертификаты (Postman API Testing)</b></summary>
   <br>
   
   ### 🚀 [Тестирование API в Postman - Stepik (Verify)](https://stepik.org/cert/3145621)
-  > Работа с REST API: создание коллекций, написание тестов на JS, работа с Environment variables.
+  > Работа с REST API: создание коллекций, написание тестов на JS, работа с переменными окружения.
   
-  <img src="https://stepik.org/cert/3145621.png?id=3145621" width="650" alt="Postman API Testing Certificate"/>
+  <img src="[stepik-certificate-120679-62eb8b4.pdf](https://github.com/user-attachments/files/26907044/stepik-certificate-120679-62eb8b4.pdf)" width="650" alt="Postman API Testing Certificate"/>
 
 </details>
 
