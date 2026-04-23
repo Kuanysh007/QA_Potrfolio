@@ -1,0 +1,16 @@
+{
+  "name": "demoblaze-test",
+  "version": "1.0.0",
+  "description": "QA Portfolio - Playwright Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Kuanysh",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.0.0"
+  }
+}
